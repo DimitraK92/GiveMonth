@@ -1,0 +1,7 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\bin\Debug\GiveMonth.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\bin\Debug\GiveMonth.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\bin\Debug\GiveMonth.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\obj\Debug\GiveMonth.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\obj\Debug\GiveMonth.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\obj\Debug\GiveMonth.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\25.02.2021\GiveMonth\GiveMonth\obj\Debug\GiveMonth.pdb
